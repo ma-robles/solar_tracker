@@ -351,8 +351,8 @@ def camera_detect(no_move=False):
                 ######################################################
                 #min_speed = 0.2
                 #max_speed = 3.5
-                min_speed = 0.5
-                max_speed = 1.5
+                min_speed = 0.0
+                max_speed = 2.0
                 #original
                 #step_speed = 0.005
                 step_speed_y = 0.050
